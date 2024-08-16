@@ -1,5 +1,5 @@
 # gimp-quirinux 
-Autor: Charlie Martínez ®
+Autor: Charlie Martínez ® </br>
 Licencia: GPLv2
 
 ![gimp-quirinux](https://charliemartinez.com.ar/wp-content/uploads/2023/11/gimp-quirinux_charlie-martinez.jpg)
