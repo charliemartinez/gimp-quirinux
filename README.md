@@ -1,5 +1,9 @@
 # gimp-quirinux 
 Autor: Charlie Martínez ®
+Licencia: GPLv2
+
+![gimp-quirinux](https://charliemartinez.com.ar/wp-content/uploads/2023/11/gimp-quirinux_charlie-martinez.jpg)
+
 ## Acerca de este repositorio
 Gimp Edición Quirinux agrega a Gimp 2.10 el programa Configurar Gimp en el menú Aplicaciones > Gráficos y el comando gimp-quirinux. 
 Esto permite modificar la apariencia y/o los atajos de teclado de Gimp para emular a los de Adobe Photoshop. 
