@@ -61,13 +61,13 @@ fi
 URLS=(
 "https://repo.quirinux.org/pool/main/g/gluas/gimp-gluas_0.1.20-4+q2_amd64.deb"
 "https://repo.quirinux.org/pool/main/g/gmic/gimp-gmic_2.9.5-6+q2_amd64.deb"
-"https://repo.quirinux.org/pool/main/g/gutenprint/libgutenprintui2-2_5.3.4.20220624T01008808d602-2+q2_amd64.deb"
+"https://repo.quirinux.org/pool/main/libg/libgutenprintui2-2/libgutenprintui2-2_5.3.4.20220624T01008808d602-3+q2_amd64.deb"
 "https://repo.quirinux.org/pool/main/g/gutenprint/gimp-gutenprint_5.3.4.20220624T01008808d602-3+q2_amd64.deb"
 "https://repo.quirinux.org/pool/main/g/gimplensfun/gimp-lensfun_0.2.5-1.3+q2_amd64.deb"
-"https://repo.quirinux.org/pool/main/g/gimp-plugin-registry/gimp-plugin-registry_9.20200930+q2_amd64.deb"
+"https://repo.quirinux.org/pool/main/g/gimp-plugin-registry/gimp-plugin-registry_9.20200931+q2_amd64.deb"
 "https://repo.quirinux.org/pool/main/g/gtkam/gtkam-gimp_1.0-5+q2_amd64.deb"
 "https://repo.quirinux.org/pool/main/g/gimp-gap/gimp-gap_2.6.2+q2_amd64.deb"
-"https://repo.quirinux.org/pool/main/g/gimp-quirinux/gimp-quirinux_6.5.9+q2_all.deb"
+"https://repo.quirinux.org/pool/main/g/gimp-quirinux/gimp-quirinux_6.5.10+q2_all.deb"
 )
 
 # TODO: Revisar compatibilidad de paquete libjpeg62-turbo 
